@@ -1,0 +1,23 @@
+body{
+    background-color: crimson;
+}
+.navbar-header {
+    float: left;
+    /* padding: 5px; */
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {
+    color: black!important;
+    font-weight: 600;
+    font-size: 30px;
+    float:none;
+}
+#TextHead{
+    text-align: center;
+    color: black;
+    padding: 5px;
+}
+#hBox{
+    background-color: cyan;
+}

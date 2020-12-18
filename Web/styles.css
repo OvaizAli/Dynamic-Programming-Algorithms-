@@ -6,6 +6,7 @@ body{
     /* padding: 5px; */
     text-align: center;
     width: 100%;
+    background-color: aqua;
 }
 .navbar-brand {
     color: black!important;
@@ -19,5 +20,11 @@ body{
     padding: 5px;
 }
 #hBox{
-    background-color: cyan;
+    background-color: aqua;
+}
+.exec{
+    width: 100%;
+    background-color: rgb(250, 149, 164);
+    font-weight: 500;
+    font-size: 20px;
 }

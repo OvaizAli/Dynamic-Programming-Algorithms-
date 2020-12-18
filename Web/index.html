@@ -21,7 +21,7 @@
       <div class="container">
            <div class="row">
                 <div class="col-md-12 mb-12">
-                    <select class="custom-select" id="" required>
+                    <select class="custom-select" id="algoOptions" onchange="setTestCases()" required>
                         <option selected disabled value="">Choose Dynamic Programming Algorithm</option>
                         <option>Longest Common Subsequence</option>
                         <option>Shortest Common Supersequence</option>
@@ -32,7 +32,7 @@
                         <option>Partition-problem</option>
                         <option>Rod Cutting Problem</option>
                         <option>Coin-change-making-problem</option>
-                        <option>Word Break Problem </option>
+                        <option>Word Break Problem</option>
                      </select>
                 </div>
             </div>
@@ -41,18 +41,9 @@
 
             <div class="row">
                 <div class="col-md-12 mb-12">
-                    <select class="custom-select" id="" required>
-                        <option selected disabled value="">Select the Test Case</option>
-                        <option>Test Case A</option>
-                        <option>Test Case B</option>
-                        <option>Test Case C</option>
-                        <option>Test Case D</option>
-                        <option>Test Case E</option>
-                        <option>Test Case F</option>
-                        <option>Test Case G</option>
-                        <option>Test Case H</option>
-                        <option>Test Case I</option>
-                        <option>Test Case J</option>
+                    <select class="custom-select" id="testCases" required>
+                        <option selected disabled  value="">Select the Test Case</option>
+        
                      </select>
                 </div>
             </div>

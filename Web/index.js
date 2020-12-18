@@ -54,3 +54,31 @@ function setTestCases(){
         }  
     }
 }
+
+function execute(){
+    var e = document.getElementById("algoOptions");
+    var algoSelected = e.options[e.selectedIndex].text;
+
+    var t = document.getElementById("testCases");
+    var testCaseSelected = t.options[t.selectedIndex].text;
+
+    var inputFile = testCaseSelected + ".txt";
+
+    eel.showInput(inputFile)(function(ret){
+        displayInput(ret);
+    })
+
+    if(algoSelected === "Longest Common Subsequence"){
+        eel.LCS(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Longest Common Subsequence: " + ret ;
+        })
+    }else if(algoSelected === "Shortest Common Supersequence"){
+        eel.SCS(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Shortest Common Supersequence: " + ret ;
+        })
+    }
+}
+
+function displayInput(ret){
+    document.getElementById('input').innerHTML = ret;
+}

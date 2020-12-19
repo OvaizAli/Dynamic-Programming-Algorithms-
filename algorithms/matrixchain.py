@@ -28,7 +28,7 @@ def MatrixChainOrder(p, n):
 	for L in range(2, n): 
 		for i in range(1, n-L + 1): 
 			j = i + L-1
-			m[i][j] = sys.maxint 
+			m[i][j] = 99999999 
 			for k in range(i, j): 
 
 				# q = cost / scalar multiplications 

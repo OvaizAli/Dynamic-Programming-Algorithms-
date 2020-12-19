@@ -20,18 +20,10 @@ function setTestCases(){
             testCase.appendChild(newTestCase);
             // console.log(testCase);
         }  
-    }else if(algoSelected === "0-1-knapsack-problem" || algoSelected === "Shortest Common Supersequence"){
+    }else if(algoSelected === "0-1-knapsack-problem" || algoSelected === "Rod Cutting Problem"){
         for(i = 1; i <= 10; i++){
             var newTestCase = document.createElement('option');
             var newTestCaseText = document.createTextNode('Test Case F' + i);
-            newTestCase.appendChild(newTestCaseText);
-            testCase.appendChild(newTestCase);
-            // console.log(testCase);
-        }  
-    }else if(algoSelected === "Rod Cutting Problem"){
-        for(i = 1; i <= 10; i++){
-            var newTestCase = document.createElement('option');
-            var newTestCaseText = document.createTextNode('Test Case H' + i);
             newTestCase.appendChild(newTestCaseText);
             testCase.appendChild(newTestCase);
             // console.log(testCase);
@@ -75,6 +67,38 @@ function execute(){
     }else if(algoSelected === "Shortest Common Supersequence"){
         eel.SCS(inputFile)(function(ret){
             document.getElementById('output').innerHTML = "Shortest Common Supersequence: " + ret ;
+        })
+    }else if(algoSelected === "Levenshtein Distance (edit-distance)"){
+        eel.editDistance(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Levenshtein Distance (edit-distance): " + ret ;
+        })
+    }else if(algoSelected === "Longest Increasing Subsequence"){
+        eel.LIS(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Longest Increasing Subsequence: " + ret ;
+        })
+    }else if(algoSelected === "Matrix Chain Multiplication (Order finding /paranthesization)"){
+        eel.matrixChain(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Matrix Chain Multiplication (Order finding /paranthesization): " + ret ;
+        })
+    }else if(algoSelected === "Partition-problem"){
+        eel.Partition(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Partition-problem: " + ret ;
+        })
+    }else if(algoSelected === "0-1-knapsack-problem"){
+        eel.Knapsack(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "0-1-knapsack-problem: " + ret ;
+        })
+    }else if(algoSelected === "Rod Cutting Problem"){
+        eel.rodcutting(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Rod Cutting Problem: " + ret ;
+        })
+    }else if(algoSelected === "Coin-change-making-problem"){
+        eel.coinChange(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Coin-change-making-problem: " + ret ;
+        })
+    }else if(algoSelected === "Word Break Problem"){
+        eel.wordBreak(inputFile)(function(ret){
+            document.getElementById('output').innerHTML = "Word Break Problem: " + ret ;
         })
     }
 }

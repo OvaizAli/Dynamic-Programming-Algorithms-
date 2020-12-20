@@ -1,6 +1,6 @@
 import eel
-
-eel.init('C:/Users/Zaeem Ahmed\Desktop/algo project/Dynamic-Programming-Algorithms-/Web')
+# E:/5th Semester/Fall 2020/ALGO/Sir Zeshan/Dynamic-Programming-Algorithms-/Web
+eel.init('E:/5th Semester/Fall 2020/ALGO/Sir Zeshan/Dynamic-Programming-Algorithms-/Web')
 
 @eel.expose
 def showInput(inputFile):
@@ -153,31 +153,42 @@ def editDistance(inputFile):
 @eel.expose
 def LIS(inputFile):
     f = open("Test Cases/" + inputFile, "r")
-    p = [int(x) for x in next(f).split(' ')]
+    A = [int(x) for x in next(f).split(' ')]
     # p = int(p)
     # p = p.split(' ')
-    n = len(p)
-    arr = []
-    for i in range(0,n):
-        arr.append(p[i])
-    n = len(arr)
-    lis = [1]*n 
-
-	# Compute optimized LIS values in bottom up manner 
-    for i in range (1 , n): 
-        for j in range(0 , i): 
-            if arr[i] > arr[j] and lis[i]< lis[j] + 1 : 
-                lis[i] = lis[j]+1
-
-	# Initialize maximum to 0 to get 
-	# the maximum of all LIS 
-    maximum = 0
-
-	# Pick maximum of all LIS values 
-    for i in range(n): 
-        maximum = max(maximum , lis[i]) 
-    
-    return maximum 
+    # LIS[i] stores the longest increasing subsequence of sublist
+    # A[0..i] that ends with A[i]
+    LIS = [[] for _ in range(len(A))]
+ 
+    # LIS[0] denotes longest not increasing subsequence ending with A[0]
+    LIS[0].append(A[0])
+ 
+    # start from second element in the list
+    for i in range(1, len(A)):
+ 
+        # do for each element in sublist[0..i-1]
+        for j in range(i):
+ 
+            # find longest increasing subsequence that ends with A[j]
+            # where A[j] is less than the current element A[i]
+ 
+            if A[j] < A[i] and len(LIS[j]) > len(LIS[i]):
+                LIS[i] = LIS[j].copy()
+ 
+        # include A[i] in LIS[i]
+        LIS[i].append(A[i])
+ 
+    # j will contain index of LIS
+    j = 0
+    # l = []
+    for i in range(len(A)):
+        if len(LIS[j]) < len(LIS[i]):
+            j = i
+            # l.append(LIS[j])
+ 
+    # print LIS
+    # print(LIS[j])
+    return LIS[j]
     
 # ------------------------------------------------------------------------------------------------------------------------
 @eel.expose
@@ -311,10 +322,10 @@ def rodcutting(inputFile):
 	# Build the table val[] in bottom up manner and return 
 	# the last entry from the table 
     for i in range(1, n+1): 
-        max_val = -32767
+        max_val = -32
         for j in range(i): 
             max_val = max(max_val, price[j] + val[i-j-1]) 
-        val[i] = max_val 
+        val.append(max_val) 
         
     return val[n] 
 

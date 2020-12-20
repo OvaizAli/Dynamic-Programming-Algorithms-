@@ -74,7 +74,7 @@ function execute(){
         })
     }else if(algoSelected === "Longest Increasing Subsequence"){
         eel.LIS(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "Longest Increasing Subsequence: " + ret ;
+            document.getElementById('output').innerHTML = "Longest Increasing Subsequence: " + ret + "\n\nLength: " + ret.length;
         })
     }else if(algoSelected === "Matrix Chain Multiplication (Order finding /paranthesization)"){
         eel.matrixChain(inputFile)(function(ret){
@@ -82,15 +82,15 @@ function execute(){
         })
     }else if(algoSelected === "Partition-problem"){
         eel.Partition(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "Partition-problem: " + ret ;
+            document.getElementById('output').innerHTML = "Partition-problem (True/False): " + ret;
         })
     }else if(algoSelected === "0-1-knapsack-problem"){
         eel.Knapsack(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "0-1-knapsack-problem: " + ret ;
+            document.getElementById('output').innerHTML = "Solution to 0-1-knapsack-problem: " + ret ;
         })
     }else if(algoSelected === "Rod Cutting Problem"){
         eel.rodcutting(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "Rod Cutting Problem: " + ret ;
+            document.getElementById('output').innerHTML = "Rod Cutting Problem (Pieces): " + ret ;
         })
     }else if(algoSelected === "Coin-change-making-problem"){
         eel.coinChange(inputFile)(function(ret){

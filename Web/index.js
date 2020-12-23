@@ -78,7 +78,7 @@ function execute(){
         })
     }else if(algoSelected === "Matrix Chain Multiplication (Order finding /paranthesization)"){
         eel.matrixChain(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "Matrix Chain Multiplication (Order finding /paranthesization): " + ret ;
+            document.getElementById('output').innerHTML = "Matrix Chain Multiplication (Order finding /paranthesization):\nOptimal Cost is: " + ret ;
         })
     }else if(algoSelected === "Partition-problem"){
         eel.Partition(inputFile)(function(ret){
@@ -97,7 +97,7 @@ function execute(){
             document.getElementById('output').innerHTML = "Coin-change-making-problem: " + ret ;
         })
     }else if(algoSelected === "Word Break Problem"){
-        eel.wordBreak(inputFile)(function(ret){
+        eel.Word_Break(inputFile)(function(ret){
             document.getElementById('output').innerHTML = "Word Break Problem: " + ret ;
         })
     }

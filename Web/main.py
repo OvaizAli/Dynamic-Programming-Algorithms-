@@ -1,7 +1,7 @@
 import eel
 # E:/5th Semester/Fall 2020/ALGO/Sir Zeshan/Dynamic-Programming-Algorithms-/Web
 # eel.init('E:/5th Semester/Fall 2020/ALGO/Sir Zeshan/Dynamic-Programming-Algorithms-/Web')
-eel.init('C:/Users/Zaeem Ahmed/Desktop/algo project/Dynamic-Programming-Algorithms-/Web')
+eel.init('E:/5th Semester/Fall 2020/ALGO/Sir Zeshan/Dynamic-Programming-Algorithms-/Web')
 
 @eel.expose
 def showInput(inputFile):
@@ -267,26 +267,25 @@ def Partition(inputFile):
 def rodcutting(inputFile):
     f = open("Test Cases/" + inputFile, "r")
     # p = f.readline().split(' ')
-    arrw = [int(x) for x in next(f).split(' ')]
-    arrv = [int(y) for y in next(f).split(' ')]
+    INT_MIN = -32767
+    arrlength = [int(x) for x in next(f).split(' ')]
+    arrPrice = [int(y) for y in next(f).split(' ')]
     W = f.readline()
+    # Rod length
     n = int(W)
     # p = int(p)
     # p = p.split(' ')
-    x = len(arrv)
-    # val = []
-    price = []
-    for i in range(0,x):
-        price.append(arrv[i])
+    x = len(arrPrice)
     
     T = [0] * (n + 1)
  
     # consider rod of length i
-    for i in range(1, n + 1):
+    for i in arrlength:
         # divide the rod of length i into two rods of length j
         # and i-j each and take maximum
         for j in range(1, i + 1):
-            T[i] = max(T[i], price[j - 1] + T[i - j])
+            T.append(max(T[i], arrPrice[j - 1] + T[i - j - 1]))
+            # T.append(arrPrice[j])
  
     # T[n] stores maximum profit achieved from rod of length n
     return T[n]

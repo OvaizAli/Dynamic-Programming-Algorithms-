@@ -288,7 +288,7 @@ def rodcutting(inputFile):
             # T.append(arrPrice[j])
  
     # T[n] stores maximum profit achieved from rod of length n
-    return T[n]
+    return max(T)
 
 # ------------------------------------------------------------------------------------------------------------------------
 @eel.expose

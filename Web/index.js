@@ -20,7 +20,15 @@ function setTestCases(){
             testCase.appendChild(newTestCase);
             // console.log(testCase);
         }  
-    }else if(algoSelected === "0-1-knapsack-problem" || algoSelected === "Rod Cutting Problem"){
+    }else if(algoSelected === "Rod Cutting Problem"){
+        for(i = 1; i <= 10; i++){
+            var newTestCase = document.createElement('option');
+            var newTestCaseText = document.createTextNode('Test Case H' + i);
+            newTestCase.appendChild(newTestCaseText);
+            testCase.appendChild(newTestCase);
+            // console.log(testCase);
+        }  
+    }else if(algoSelected === "0-1-knapsack-problem"){
         for(i = 1; i <= 10; i++){
             var newTestCase = document.createElement('option');
             var newTestCaseText = document.createTextNode('Test Case F' + i);

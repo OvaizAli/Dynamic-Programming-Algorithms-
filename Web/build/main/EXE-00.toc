@@ -53,7 +53,7 @@
  [],
  False,
  False,
- 1610561745,
+ 1610563799,
  [('run.exe',
    'C:\\Users\\Ovaiz '
    'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',

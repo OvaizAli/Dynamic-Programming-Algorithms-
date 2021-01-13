@@ -86,7 +86,7 @@ function execute(){
         })
     }else if(algoSelected === "Matrix Chain Multiplication (Order finding /paranthesization)"){
         eel.matrixChain(inputFile)(function(ret){
-            document.getElementById('output').innerHTML = "Matrix Chain Multiplication (Order finding/paranthesization) =>\nOptimal Cost is: " + ret ;
+            document.getElementById('output').innerHTML = "Matrix Chain Multiplication (Order finding/paranthesization) =>\nMinimum/Optimal number of multiplications needed: " + ret ;
         })
     }else if(algoSelected === "Partition-problem"){
         eel.Partition(inputFile)(function(ret){

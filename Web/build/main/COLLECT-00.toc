@@ -1,0 +1,2225 @@
+([('main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\main.exe.manifest',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('_ctypes',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('greenlet',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\greenlet.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('zope.interface._zope_interface_coptimizations',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_cffi_backend.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_waiter',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_cqueue',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_greenlet_primitives',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_abstract_linkable',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent.libev.corecext',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_tracer',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_tracer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_cevent',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_hub_local',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_hub_local.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent.libuv._corecffi',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\libuv\\_corecffi.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_ident',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_cgreenlet',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_cgreenlet.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_clocal',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_clocal.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_hub_primitives',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_imap',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_imap.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('gevent._gevent_c_semaphore',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('libffi-7.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-13.0.2\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\base_library.zip',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\AUTHORS',
+   'DATA'),
+  ('eel\\eel.js',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\eel\\eel.js',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\WHEEL',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\WHEEL',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\LICENSE',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\NOTICE',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\NOTICE',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'C:\\Users\\Ovaiz '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python39\\Include\\pyconfig.h',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\METADATA',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\RECORD',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'c:\\users\\ovaiz '
+   'ali\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gevent-20.9.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H2.txt',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F2.txt',
+   'DATA'),
+  ('dist\\main\\_asyncio.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\unicodedata.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case A3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case A3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case J4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case J4.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F2.txt',
+   'DATA'),
+  ('dist\\main\\VCRUNTIME140.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case A5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case A5.txt',
+   'DATA'),
+  ('build\\main\\base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case J9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case J9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('build\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\select.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\select.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F4.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J3.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A4.txt',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\libcrypto-1_1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D7.txt',
+   'DATA'),
+  ('dist\\main\\unicodedata.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('build\\main\\EXE-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\EXE-00.toc',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_hashlib.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_hashlib.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case H8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H8.txt',
+   'DATA'),
+  ('dist\\main\\pyexpat.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\ucrtbase.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case I6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case I6.txt',
+   'DATA'),
+  ('build\\main\\Tree-02.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\Tree-02.toc',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H5.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D1.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I3.txt',
+   'DATA'),
+  ('dist\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\python3.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\python3.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_clocal.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_clocal.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\Tree-01.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\Tree-01.toc',
+   'DATA'),
+  ('index.html',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\index.html',
+   'DATA'),
+  ('dist\\main\\_decimal.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_decimal.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case I8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\index.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\index.js',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\Analysis-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\build\\main\\PKG-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\PKG-00.toc',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\Test Cases\\Test Case D6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case D10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D10.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H10.txt',
+   'DATA'),
+  ('dist\\main\\base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\base_library.zip',
+   'DATA'),
+  ('Test Cases\\Test Case A9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A9.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\NOTICE',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\NOTICE',
+   'DATA'),
+  ('Test Cases\\Test Case D2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D2.txt',
+   'DATA'),
+  ('Test Cases\\Test Case H10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'H10.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_multiprocessing.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case F5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\__pycache__\\main.cpython-39.pyc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\__pycache__\\main.cpython-39.pyc',
+   'DATA'),
+  ('dist\\main\\libssl-1_1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\PKG-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\PKG-00.toc',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_clocal.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_clocal.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('build\\main\\Tree-01.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\Tree-01.toc',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'DATA'),
+  ('dist\\main\\build\\main\\Tree-02.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\Tree-02.toc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_uuid.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_uuid.pyd',
+   'DATA'),
+  ('dist\\main\\main.py',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\main.py',
+   'DATA'),
+  ('build\\main\\Tree-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\Tree-00.toc',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case A3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A3.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I6.txt',
+   'DATA'),
+  ('dist\\main\\build\\main\\Analysis-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('Test Cases\\Test Case H2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\_queue.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_queue.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\index.html',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\index.html',
+   'DATA'),
+  ('dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case H7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H7.txt',
+   'DATA'),
+  ('dist\\main\\_ssl.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_ssl.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case D5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D5.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J7.txt',
+   'DATA'),
+  ('Test Cases\\Test Case D6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D6.txt',
+   'DATA'),
+  ('dist\\main\\libffi-7.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\libffi-7.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_imap.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_imap.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\build\\main\\Analysis-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('main.spec',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\main.spec',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\VCRUNTIME140.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_imap.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_imap.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case A2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D3.txt',
+   'DATA'),
+  ('dist\\main\\python39.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\python39.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\libffi-7.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\libffi-7.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F9.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J4.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case H6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_queue.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_queue.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\pyexpat.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\greenlet.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\greenlet.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\libcrypto-1_1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_ctypes.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_ctypes.pyd',
+   'DATA'),
+  ('styles.css',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\styles.css',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_tracer.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_tracer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\build\\main\\PYZ-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\PYZ-00.toc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\PYZ-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\PYZ-00.toc',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J4.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F6.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\_lzma.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_lzma.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I1.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J5.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case D6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D6.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\WHEEL',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\WHEEL',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A8.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A7.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case A5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A5.txt',
+   'DATA'),
+  ('Test Cases\\Test Case A8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A8.txt',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\NOTICE',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\NOTICE',
+   'DATA'),
+  ('Test Cases\\Test Case H5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\_bz2.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_bz2.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_asyncio.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'DATA'),
+  ('Test Cases\\Test Case D3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D3.txt',
+   'DATA'),
+  ('index.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\index.js',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case I5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\AUTHORS',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case A6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case I4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I4.txt',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case I2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case I2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('build\\main\\PKG-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\PKG-00.toc',
+   'DATA'),
+  ('Test Cases\\Test Case A1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A1.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'F10.txt',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_bz2.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_bz2.pyd',
+   'DATA'),
+  ('dist\\main\\_ctypes.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_hub_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\index.html',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\index.html',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\Test Cases\\Test Case A5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case A5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\_socket.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_socket.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H3.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Include\\pyconfig.h',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Include\\pyconfig.h',
+   'DATA'),
+  ('build\\main\\Analysis-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('Test Cases\\Test Case D9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D9.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F6.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case F9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case F9.txt',
+   'DATA'),
+  ('dist\\main\\_uuid.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_uuid.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_decimal.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_decimal.pyd',
+   'DATA'),
+  ('main.py',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\main.py',
+   'DATA'),
+  ('dist\\main\\build\\main\\warn-main.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\warn-main.txt',
+   'DATA'),
+  ('Test Cases\\Test Case I10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'I10.txt',
+   'DATA'),
+  ('Test Cases\\Test Case A10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'A10.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\python3.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\python3.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\main.spec',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\main.spec',
+   'DATA'),
+  ('Test Cases\\Test Case F9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_queue.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_queue.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D8.txt',
+   'DATA'),
+  ('Test Cases\\Test Case D1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'DATA'),
+  ('build\\main\\xref-main.html',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\xref-main.html',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_hub_local.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_hub_local.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\build\\main\\PKG-00.pkg',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\PKG-00.pkg',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case F7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\index.dev.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\index.dev.js',
+   'DATA'),
+  ('Test Cases\\Test Case H4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('build\\main\\PYZ-00.pyz',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\PYZ-00.pyz',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case J10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'J10.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_decimal.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_decimal.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\python3.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\python3.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case H9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_overlapped.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\libffi-7.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\libffi-7.dll',
+   'DATA'),
+  ('Test Cases\\Test Case H3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\select.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\select.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\eel\\eel.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\eel\\eel.js',
+   'DATA'),
+  ('dist\\main\\build\\main\\PYZ-00.pyz',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\PYZ-00.pyz',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_cgreenlet.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_cgreenlet.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A9.txt',
+   'DATA'),
+  ('Test Cases\\Test Case D7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D7.txt',
+   'DATA'),
+  ('dist\\main\\icon.png',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\icon.png',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H9.txt',
+   'DATA'),
+  ('Test Cases\\Test Case F8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\VCRUNTIME140.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\index.dev.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\index.dev.js',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case D5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D5.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\libev\\corecext.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case I6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I6.txt',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\LICENSE',
+   'DATA'),
+  ('Test Cases\\Test Case I7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D10.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_ident.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case J1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case J1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\EXE-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\EXE-00.toc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case A4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case A4.txt',
+   'DATA'),
+  ('dist\\main\\Include\\pyconfig.h',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_hub_local.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_hub_local.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\INSTALLER',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H4.txt',
+   'DATA'),
+  ('__pycache__\\main.cpython-39.pyc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\__pycache__\\main.cpython-39.pyc',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A3.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I9.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H1.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J6.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J10.txt',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('build\\main\\warn-main.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\warn-main.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I10.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_ssl.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_ssl.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\libssl-1_1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\top_level.txt',
+   'DATA'),
+  ('dist\\main\\build\\main\\Tree-01.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\Tree-01.toc',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\ucrtbase.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\ucrtbase.dll',
+   'DATA'),
+  ('Test Cases\\Test Case A4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F10.txt',
+   'DATA'),
+  ('dist\\main\\_overlapped.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_waiter.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\ucrtbase.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_lzma.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_lzma.pyd',
+   'DATA'),
+  ('dist\\main\\build\\main\\base_library.zip',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\dist\\main\\select.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\select.pyd',
+   'DATA'),
+  ('dist\\main\\main.spec',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\main.spec',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_c_semaphore.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case I2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I2.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_hashlib.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_hashlib.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case D8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D8.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\COLLECT-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\COLLECT-00.toc',
+   'DATA'),
+  ('dist\\main\\build\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_overlapped.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F7.txt',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_abstract_linkable.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\Test Cases\\Test Case I6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case I6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\warn-main.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\warn-main.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_ssl.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_ssl.pyd',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_cgreenlet.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_cgreenlet.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('Test Cases\\Test Case I9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I9.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case A10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case A10.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\PYZ-00.pyz',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\PYZ-00.pyz',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_asyncio.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\main\\build\\main\\Tree-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\Tree-00.toc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\METADATA',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\__pycache__\\main.cpython-39.pyc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\__pycache__\\main.cpython-39.pyc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_socket.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_socket.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\eel\\eel.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\eel\\eel.js',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'DATA'),
+  ('build\\main\\main.exe',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case H8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case H8.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J1.txt',
+   'DATA'),
+  ('dist\\main\\build\\main\\EXE-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\EXE-00.toc',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_cevent.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I7.txt',
+   'DATA'),
+  ('dist\\main\\styles.css',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\styles.css',
+   'DATA'),
+  ('dist\\main\\gevent\\_gevent_c_tracer.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\gevent\\_gevent_c_tracer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('Test Cases\\Test Case I1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I5.txt',
+   'DATA'),
+  ('Test Cases\\Test Case D4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case D4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case J8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J8.txt',
+   'DATA'),
+  ('dist\\main\\build\\main\\xref-main.html',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\xref-main.html',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\build\\main\\COLLECT-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\COLLECT-00.toc',
+   'DATA'),
+  ('Test Cases\\Test Case F3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case F3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case I7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case I7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F5.txt',
+   'DATA'),
+  ('Test Cases\\Test Case H1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case H1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\dist\\main\\Test Cases\\Test Case '
+   'D6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case D4.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case D4.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case J6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case J6.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J3.txt',
+   'DATA'),
+  ('Test Cases\\Test Case A7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case A7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\build\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\build\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_cffi_backend.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\libuv\\_corecffi.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\RECORD',
+   'DATA'),
+  ('build\\main\\PKG-00.pkg',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\PKG-00.pkg',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\greenlet.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\greenlet.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D2.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J7.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J7.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\python39.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\python39.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\WHEEL',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\WHEEL',
+   'DATA'),
+  ('Test Cases\\Test Case D10.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case '
+   'D10.txt',
+   'DATA'),
+  ('Test Cases\\Test Case J9.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J9.txt',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\_hashlib.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case I2.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case I2.txt',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case D6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case D6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('Test Cases\\Test Case J1.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case J1.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case H6.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case H6.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('build\\main\\PYZ-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\PYZ-00.toc',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent-20.9.0-py3.9.egg-info\\entry_points.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case J5.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case J5.txt',
+   'DATA'),
+  ('build\\main\\COLLECT-00.toc',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\build\\main\\COLLECT-00.toc',
+   'DATA'),
+  ('Test Cases\\Test Case I3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\Test Cases\\Test Case I3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\dist\\main\\gevent\\_gevent_c_greenlet_primitives.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\gevent\\_gevent_cqueue.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\_multiprocessing.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\zope\\interface\\_zope_interface_coptimizations.cp39-win_amd64.pyd',
+   'DATA'),
+  ('icon.png',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\icon.png',
+   'DATA'),
+  ('dist\\main\\dist\\main\\Test Cases\\Test Case J8.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\Test '
+   'Cases\\Test Case J8.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\index.js',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\index.js',
+   'DATA'),
+  ('dist\\main\\Test Cases\\Test Case F3.txt',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\Test Cases\\Test '
+   'Case F3.txt',
+   'DATA'),
+  ('dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\build\\main\\main.exe.manifest',
+   'E:\\5th Semester\\Fall 2020\\ALGO\\Sir '
+   'Zeshan\\Dynamic-Programming-Algorithms-\\Web\\dist\\main\\build\\main\\main.exe.manifest',
+   'DATA')],)
